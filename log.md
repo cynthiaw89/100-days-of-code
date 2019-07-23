@@ -14,4 +14,7 @@
 
 **Thoughts:** I feel like even though I completed the project, I didn't accomplish a whole lot.  I'm itching to move on to new topics, but I know I need to ensure I have enough base knowledge to not overwhelm myself later.
 
+**Later Edit:** Decided to code some more, finished project #4!!! I'm feeling pretty good.
+
 **Link to work:** [Product Landing Page](https://codepen.io/cynthiaw89/pen/MNYYPr)
+[Technical Documentation](https://codepen.io/cynthiaw89/pen/GVoRBE)
