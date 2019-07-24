@@ -18,3 +18,12 @@
 
 **Link to work:** [Product Landing Page](https://codepen.io/cynthiaw89/pen/MNYYPr)
 [Technical Documentation](https://codepen.io/cynthiaw89/pen/GVoRBE)
+
+### Day 3: July 23rd, 2019
+
+**Today's Progress**: Started on Project #5.  Layout is pretty much done.
+
+**Thoughts:** I have no style.  I'm bad at colors.  I wish I had specific instructions on what colors to use, how to style, etc.  I can do the coding, it's deciding what to code that's the issue.
+
+
+**Link to work:** [Personal Portfolio](https://codepen.io/cynthiaw89/full/xvVZVw)
