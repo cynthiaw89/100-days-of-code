@@ -27,3 +27,12 @@
 
 
 **Link to work:** [Personal Portfolio](https://codepen.io/cynthiaw89/full/xvVZVw)
+
+### Day 4: July 24th, 2019
+
+**Today's Progress**: Made some progress on Project #5.  I could add a bassic media query and submit it right now, but it wouldn't feel done.
+
+**Thoughts:** I'm feeling a bit better about the design stuff.  Practice will hopefully allow me to build my own style.  I'm also looking forward to the backend stuff and some computer science audit courses I've signed up for.  I'm wondering if machine learning might be my end goal... Time will tell.  For now I've started reading Your First Year in Code by Isaac Lyman and I'm finding it really interesting.
+
+
+**Link to work:** [Personal Portfolio](https://codepen.io/cynthiaw89/full/xvVZVw)
