@@ -36,3 +36,22 @@
 
 
 **Link to work:** [Personal Portfolio](https://codepen.io/cynthiaw89/full/xvVZVw)
+
+### Day 5: July 25th, 2019
+
+**Today's Progress**:Thursday- Finished another chapter of First Year in Code.  Had a few laughs.
+Finished project 5, It looks… okay.  I was kind of just ready to be done with it, so I sent it through for my cert, which I got!  Responsive Web Design or something.  I spent most of today working through SCIP, and didn't get through section 1.1 yet.  
+
+**Thoughts:** The text is a difficult read for me.  It's been so long since I've dealt with logic, I feel like I lost a lot of my mental acuity.  It further cements that I should be doing this though.  If I don't exercise my mind soon, I won't have much of one left as I get older.  Hopefully after a couple of months of continuous study, I'll start picking things up quickly again.  I don't think it will ever be as easy as it was when I was younger, but that's okay.  I can't go back into the past.  Time to keep moving forward.  
+I'm a little burnt out on SCIP exercises tonight, I'm going to move onto my zero to mastery course that I haven’t touched in about a week.  I'll probably also work through some free code camp stuff.  Time for some javascript!
+Adding https://thoughtbot.com/upcase/design-for-developers to list of things to complete.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/cynthiaw89/full/xvVZVw) and [SICP Exercises](https://github.com/cynthiaw89/SICP-exercises)
+
+### Day 6: July 26th, 2019
+
+**Today's Progress**: Finished my Robot Friend project in CSS.  
+
+**Thoughts:** 
+
+**Link to work:** [Robot Friend](https://codepen.io/cynthiaw89/full/EqNPKd)
