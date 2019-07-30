@@ -52,6 +52,39 @@ Adding https://thoughtbot.com/upcase/design-for-developers to list of things to 
 
 **Today's Progress**: Finished my Robot Friend project in CSS.  
 
-**Thoughts:** 
+**Thoughts:** Felt good.
 
 **Link to work:** [Robot Friend](https://codepen.io/cynthiaw89/full/EqNPKd)
+
+### Day 7: July 27th, 2019
+
+**Today's Progress**: Watched some ZtM tutorials and coded along a bit.
+
+**Thoughts:** This is starting to feel a bit repetitive, but there are nuggets of excellence that I don't want to miss.  Only spent a little over an hour on this today.  SPent a lot of time with my family and went out to an arcade.
+
+**Link to work:** N/a, they were just coding exercises.
+
+### Day 8: July 28th, 2019
+
+**Today's Progress**: Same as yesterday.  
+
+**Thoughts:** Didn't do too much again.  Had a lot of housework to complete and it was DnD night.  Did some tutorials between housework and about an hour after DnD at like 1am.
+
+**Link to work:** N/A again.
+
+### Day 9: July 29th, 2019
+
+**Today's Progress**: Lots of tutorials, moving through javascript. Mainly went through freecodecamp.  
+
+**Thoughts:** Starting to feel like I remember javascript.
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/cynthia_codes)
+
+### Day 10: July 30th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
