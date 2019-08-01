@@ -82,9 +82,17 @@ Adding https://thoughtbot.com/upcase/design-for-developers to list of things to 
 
 ### Day 10: July 30th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Did just a bit of javascript and watched some tutorials from ZtM.
 
-**Thoughts:** 
+**Thoughts:** A bit tired.  Only did a couple of hours.
 
-**Link to work:** 
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/cynthia_codes)
+
+### Day 11: July 31st, 2019
+
+**Today's Progress**: I decided to build a website to host this journal.  Obviously, I couldn't stop there.  Chances are you're reading it there now.  I also spent some time working with GitHub.  Learning about publishing pages, Github Desktop, etc.
+
+**Thoughts:** This is pretty neat.  I feel a bit like I'm cheating since I'm using frameworks, but that's what they're there for.  No need to reinvent the wheel.  It looks pretty neat.  I feel like I'm finally starting to understand some design basics too.
+
+**Link to work:** [Cynthia's Journey Website](https://cynthiaw89.github.io/Journey/)
 
